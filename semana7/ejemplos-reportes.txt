@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 171
+ETag: W/"ab-sxPv2uY4PSzd0RZRhwE5zbAwnfw"
+Date: Tue, 07 Jul 2026 22:15:32 GMT
+Connection: close
+
+[
+  {
+    "id": 1,
+    "tipo": "Ambiente",
+    "descripcion": "Acumulación de residuos en una zona comunitaria"
+  },
+  {
+    "id": 2,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
